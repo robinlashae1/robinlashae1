@@ -1,6 +1,6 @@
-## Hi, I'm Robin Vernon 👋
+# Hi, I'm Robin Vernon 👋
 
-### I'm a Software Engineer and Avid Student!!
+## I'm a Software Engineer and Avid Student!!
 🌱 I’m currently working on a <a href="https://github.com/robinlashae1/campus-services-redo">College Services App</a>😊<br/>
 👨‍💻 All of my projects are available at <br/>
 💬 Ask me about JavaScript, React, Ruby, Rails<br/>
@@ -11,7 +11,7 @@
 <a href="https://dev.to/robinlashae1"><img alt="dev.to" width="30px" src="https://briancaffey.github.io/icons/dev.png"></a>
 
 
-Languages and Tools:
+## Languages and Tools:
 <img alt="Visual Studio Code" width="22px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png">
 <img alt="HTML5" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg">
 <img alt="CSS3" width="30px" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png">
