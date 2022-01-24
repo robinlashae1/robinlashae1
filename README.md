@@ -33,6 +33,6 @@
 
   <!-- <img align="left" alt="Robins's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=rob&show_icons=true&hide_border=true" /> -->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=robinlashae1&show_icons=true&locale=en&layout=compact" alt="robinlashae1" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=robinlashae1&show_icons=true&locale=en" alt="robinlashae1" /></p>
-<summary><h3 align="left">📕 Latest Blog Posts </h3></summary>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=robinlashae1&show_icons=true&locale=en&layout=compact" alt="robinlashae1" width="200" height="100"/></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=robinlashae1&show_icons=true&locale=en" alt="robinlashae1" width="200" height="100"/></p>
+<h3 align="left">📕 Latest Blog Posts </h3>
